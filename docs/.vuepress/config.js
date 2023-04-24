@@ -10,6 +10,7 @@ let SuffixIncludes = ["md"];
 let sidebar = sideBarTool.genBaseSideBar(unDirIncludes, SuffixIncludes);
 module.exports = {
   title: "IELTS speaking repo",
+  dest: "./dist",
   themeConfig: {
     displayAllHeaders: true,
     sideBarDepth: 3,
