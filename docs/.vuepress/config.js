@@ -22,10 +22,9 @@ module.exports = {
     //     "✅Describe a person you have met who you want to workstudy with",
     //   ],
     // },
-    header: "aaa",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Github", link: "https://google.com" },
+      { text: "Github", link: "https://github.com/nofx3000/ielts-speaking" },
     ],
     sidebar,
   },

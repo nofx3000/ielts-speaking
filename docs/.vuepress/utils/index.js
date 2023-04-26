@@ -88,6 +88,7 @@ const filehelper = {
     });
     //  排序
     filenameList.sort();
+    console.log(filenameList);
     return filenameList;
   },
   /**
