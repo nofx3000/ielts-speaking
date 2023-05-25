@@ -195,12 +195,7 @@ const sideBarTool = {
    *    ]
    * }]
    */
-  genSideBarGroup: (
-    RootPath,
-    unDirIncludes,
-    SuffixIncludes,
-    { title = "", children = [""], collapsable = true, sidebarDepth = 2 }
-  ) => {
+  genSideBarGroup: (RootPath, unDirIncludes, SuffixIncludes) => {
     // 准备接收
     let sidebars = [];
     let allDirs = filehelper.getAllDirs(RootPath, unDirIncludes);
@@ -211,7 +206,7 @@ const sideBarTool = {
         SuffixIncludes
       );
       let dirname = item.replace(RootPath, "");
-      let titleTemp = item.replace(RootPath + "/view", "");
+      let titleTemp = item.replace(RootPath, "");
       title = titleTemp.replace(/\//g, "");
       if (children.length > 1) {
         children = children.flatMap((vo, idx) => [
@@ -225,7 +220,7 @@ const sideBarTool = {
         children:
           children.length > 1 ? children : [dirname.replace(/\//g, "/")],
       };
-      sidebars.push(Obj);
+      sidebars.unshift(Obj);
     });
     return sidebars;
   },

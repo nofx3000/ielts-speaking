@@ -7,7 +7,11 @@ let unDirIncludes = ["node_modules", "assets", "public"];
 
 let SuffixIncludes = ["md"];
 
-let sidebar = sideBarTool.genBaseSideBar(unDirIncludes, SuffixIncludes);
+let sidebar = sideBarTool.genSideBarGroup(
+  rootPath,
+  unDirIncludes,
+  SuffixIncludes
+);
 module.exports = {
   title: "IELTS speaking repo",
   dest: "./dist",
