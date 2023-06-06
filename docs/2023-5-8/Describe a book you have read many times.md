@@ -14,7 +14,7 @@ And explain what effect this book had on you
 
 ​	I find myself returning to "Animal Farm" at random intervals, drawn by its thought-provoking themes and Orwell's masterful storytelling. The book serves as a powerful reminder of the dangers of authoritarianism, propaganda, and the abuse of power. Each time I read it, I uncover new layers of meaning and gain a deeper understanding of the complexities of political systems.<u>The book's ability to shed light on the human condition and expose the flaws of societal structures fascinates me.</u>
 
-​	This book has had a profound effect on me. It has heightened my awareness of political manipulation and the importance of remaining vigilant in safeguarding democratic principles. It has also deepened my understanding of the potential consequences when power is concentrated in the hands of a few. Through its vivid portrayal of the animals' struggle for freedom, "Animal Farm" has instilled in me a sense of responsibility to question authority and to defend equality and justice.
+​	This book has heightened my awareness of political manipulation and the importance of remaining vigilant in safeguarding democratic principles. It has also deepened my understanding of the potential consequences when power is concentrated in the hands of a few. Through its vivid portrayal of the animals' struggle for freedom, "Animal Farm" has instilled in me a sense of responsibility to question authority and to defend equality and justice.
 
 **1 What kinds of books do children like to read?**
 
