@@ -14,7 +14,7 @@ And explain whether it is difficult or easy to learn this sport
 
 ​	The water sport that I am eager to try in the future is surfing. The reason why I'd like to surf is because I have always been fascinated by the ocean and the thrill of riding waves. Learning to surf would allow me to immerse myself in the beauty of the sea, challenge myself physically, and experience the unique sensation of gliding across the water. It also offers an opportunity to connect with nature and the rhythm of the ocean.
 
- 	To surf properly, you need a surfboard, which can vary in size and shape depending on the your skill level and the type of waves you wish to surf. Additionally, a wetsuit is necessary to protect the body from the cold water and provide flexibility for movement.
+​	To surf properly, you need a surfboard, which can vary in size and shape depending on the your skill level and the type of waves you wish to surf. Additionally, a wetsuit is necessary to protect the body from the cold water and provide flexibility for movement.
 
 ​	Surfing can be both difficult and easy to learn, depending on various factors. It requires balance, coordination, and timing to catch and ride waves successfully. Beginners often face challenges with paddling, balancing on the board, and timing their maneuvers. However, with proper instruction, practice, and persistence, one can gradually develop the necessary skills. While it may take time to become proficient, the joy of riding a wave and the sense of accomplishment make the learning process worthwhile.
 
