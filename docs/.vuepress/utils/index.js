@@ -215,7 +215,7 @@ const sideBarTool = {
       }
       let Obj = {
         title,
-        collapsable: true,
+        collapsable: false,
         sidebarDepth: 2,
         children:
           children.length > 1 ? children : [dirname.replace(/\//g, "/")],
